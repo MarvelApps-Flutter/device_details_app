@@ -6,4 +6,6 @@ class AppConstants
   static const successive = "Successive";
   static const technologies = "Technologies";
   static const apps = "APPS";
+  static const androidDevice = "Android Device Info";
+  static const iosDevice = "iOS Device Info";
 }
